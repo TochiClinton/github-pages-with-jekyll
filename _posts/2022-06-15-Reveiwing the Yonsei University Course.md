@@ -1,3 +1,7 @@
+---
+title: "REVIEWING THE YONSEI UNIVERSITY COURSE BY COURSERA"
+date: 2022-06-15
+---
 As a Communication Engineering student, keen on learning and growing, I took the TCP/IP course offered by Yonsei University courtesy of Coursera. Well, for starters, TCP stands for Transmission Control Protocol, whilst IP stands for Internet Protocol. These protocols are necessary for packet routing operations across the internet.
 
 I would say that the course was self-explanatory, although some concepts would sound vague and hard to grasp if you do not have pre-knowledge of networking concepts. It is quite intriguing how TCP/IP is an important aspect of the CCNA exams. I wouldn't want to go deeply into explaining certain concepts for now as this is just a summary of what I learned.
