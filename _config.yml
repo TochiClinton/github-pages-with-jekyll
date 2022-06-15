@@ -1,9 +1,7 @@
 title: Hi, Welcome to my Blog
 author: Tochukwu Chukwure
 email: tochichukwure@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  🖐️Hey there!! You would want to read a summary about me before going further through my profile.
-
+description: > # this means to ignore newlines until "baseurl:"🖐️Hey there!! You would want to read a summary about me before going further through my profile.
 I am an aspiring Network/Communication Engineer at the Federal University of Technology Owerri with a strong quest for learning, growth, and taking on opportunities. Through hard work, creativity, and dedication, I have been awarded several scholarships🏆 both locally and on a global scale. 
 
 🏅I strongly believe that ordinary people can become extraordinary through hard work, persistence, and commitment.
@@ -26,7 +24,7 @@ I look forward to mutually beneficial collaborations, internship opportunities a
 
 Fun fact: I love socks🧦🧦. 
 
-Feel free to reach out to me via email📧: chukwuretochi@ieee.org
+Feel free to reach out to me via email📧: chukwuretochi@ieee.org"
 
 # social links
 twitter_username: ChukwureClinton # DO NOT include the @ character, or else the build will fail!
