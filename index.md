@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Hi, My name is Tochukwu Chukwure. Welcome to my Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. I look forward to discussing about the cloud and everything about networks.
