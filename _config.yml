@@ -1,13 +1,13 @@
 title: Hi, Welcome to my Blog
 author: Tochukwu Chukwure
 email: tochichukwure@gmail.com
-description: > # this means to ignore newlines until "baseurl:"Hey there!! You would want to read a summary about me before going further through my profile.
+description: Hey there!! You would want to read a summary about me before going further through my profile.
 
 I am an aspiring Network/Communication Engineer at the Federal University of Technology Owerri with a strong quest for learning, growth, and taking on opportunities. Through hard work, creativity, and dedication, I have been awarded several scholarships🏆 both locally and on a global scale. 
 
 I strongly believe that ordinary people can become extraordinary through hard work, persistence, and commitment.
 
-Technology for educators is something I am very passionate about. I am interested in leveraging Extended Reality (Virtual/Augmented Reality), as well as my knowledge in the communication engineering industry, to change the education ecosystem in Nigeria and Africa."
+Technology for educators is something I am very passionate about. I am interested in leveraging Extended Reality (Virtual/Augmented Reality), as well as my knowledge in the communication engineering industry, to change the education ecosystem in Nigeria and Africa.> # this means to ignore newlines until "baseurl:" 
 
 # social links
 twitter_username: ChukwureClinton # DO NOT include the @ character, or else the build will fail!
